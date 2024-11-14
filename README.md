@@ -1,9 +1,10 @@
-.
-├── id_list.txt                # ID list (to be provided by the user)
-├── example_id_list.txt        # Example ID list (for GitHub)
-├── scrape_images.py           # Main Python script
-├── README.md                  # Project description
-└── requirements.txt           # Required libraries
+## Project Structure
+
+- **id_list.txt**: The list of product IDs to scrape (to be created by the user).
+- **example_id_list.txt**: A sample list of IDs provided as an example.
+- **scrape_images.py**: The main Python script that performs the scraping and saves results to a CSV.
+- **README.md**: The project description and usage guide.
+- **requirements.txt**: A list of required libraries to run the script.
 
 # Web Scraper for Image SRCs
 
