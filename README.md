@@ -1,3 +1,10 @@
+.
+├── id_list.txt                # ID list (to be provided by the user)
+├── example_id_list.txt        # Example ID list (for GitHub)
+├── scrape_images.py           # Main Python script
+├── README.md                  # Project description
+└── requirements.txt           # Required libraries
+
 # Web Scraper for Image SRCs
 
 This Python script scrapes a list of product pages based on provided IDs and extracts the `src` URLs of images within specified desktop and mobile classes. The results are saved in a CSV file.
